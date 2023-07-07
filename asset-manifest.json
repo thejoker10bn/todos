@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Users/MIGUEL%20%20ANGEL/OneDrive/Escritorio/prog8/todo-app/build/static/css/main.c23a483f.css",
+    "main.js": "/Users/MIGUEL%20%20ANGEL/OneDrive/Escritorio/prog8/todo-app/build/static/js/main.fce1a8ca.js",
+    "index.html": "/Users/MIGUEL%20%20ANGEL/OneDrive/Escritorio/prog8/todo-app/build/index.html",
+    "static/media/delete.svg": "/Users/MIGUEL%20%20ANGEL/OneDrive/Escritorio/prog8/todo-app/build/static/media/delete.84e4a932c97ebd0c6c78dd05068de6fb.svg",
+    "static/media/check.svg": "/Users/MIGUEL%20%20ANGEL/OneDrive/Escritorio/prog8/todo-app/build/static/media/check.869a5e77f19ab8e1fd324a52c184d1b0.svg",
+    "main.c23a483f.css.map": "/Users/MIGUEL%20%20ANGEL/OneDrive/Escritorio/prog8/todo-app/build/static/css/main.c23a483f.css.map",
+    "main.fce1a8ca.js.map": "/Users/MIGUEL%20%20ANGEL/OneDrive/Escritorio/prog8/todo-app/build/static/js/main.fce1a8ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c23a483f.css",
+    "static/js/main.fce1a8ca.js"
+  ]
+}
